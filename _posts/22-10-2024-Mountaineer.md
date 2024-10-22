@@ -1,3 +1,6 @@
-Mountaineer TryHackme writeup | 
+---
+title: "Mountaineer"
+date: 22-10-2024
+---
 
-![alt text](images/image.png)
+Mountaineer TryHackme writeup | 
