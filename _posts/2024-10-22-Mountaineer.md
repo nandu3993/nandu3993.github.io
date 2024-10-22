@@ -165,3 +165,15 @@ Basic Commands
 We got a username and password , its probaly for ssh
 ![alt text](<../assets/images/mountaineer/Screenshot 2024-10-22 161827.png>)
 
+
+![alt text](<../assets/images/mountaineer/Screenshot 2024-10-22 175735.png>)
+
+Login using ssh
+![alt text](<../assets/images/mountaineer/Screenshot 2024-10-22 175827.png>)
+
+
+![alt text](<../assets/images/mountaineer/Screenshot 2024-10-22 180217.png>)
+We can direcly get the root password brom the bash history
+
+![alt text](<../assets/images/mountaineer/Screenshot 2024-10-22 180356.png>)
+
