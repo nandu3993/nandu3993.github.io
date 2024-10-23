@@ -5,7 +5,7 @@ tags: [tryhackme, ctf]
 author: nandakishor
 ---
 
-## Mountaineer tryhackme
+# Mountaineer tryhackme
 MOUNTAINEER
 ![alt text](<../assets/images/mountaineer/Screenshot 2024-10-22 141106.png>)
 
@@ -80,7 +80,7 @@ we can see a vhost name there, add it to /etc/host file
 ![alt text](<../assets/images/mountaineer/Screenshot 2024-10-22 153156.png>)
 Its a login page, it requires creds, so i tries SQL injection and other login bypass methos, nothing worked so i used the username that we got from WP scan to bypass it
 
-k2:k2
+`k2:k2`
 
 is the usename and password
 
@@ -99,7 +99,7 @@ And another intersting mail
 
 We already have a password and username , so i used it against wp-admin
 
-k2:th3_tall3st_password_in_th3_world
+`k2:th3_tall3st_password_in_th3_world`
 it worked
 ![alt text](<../assets/images/mountaineer/Screenshot 2024-10-22 154338.png>)
 
@@ -176,4 +176,3 @@ Login using ssh
 We can direcly get the root password brom the bash history
 
 ![alt text](<../assets/images/mountaineer/Screenshot 2024-10-22 180356.png>)
-
