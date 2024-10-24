@@ -1,5 +1,5 @@
 ---
-title: Mountaineer
+title: TryHackMe Mountaineer
 date: 2024-10-22
 tags: [tryhackme, ctf]
 author: nandakishor
@@ -7,6 +7,8 @@ author: nandakishor
 
 # Mountaineer tryhackme
 MOUNTAINEER
+The Mountaineer room on TryHackMe is a beginner-friendly CTF challenge that focuses on Linux enumeration and privilege escalation. The task involves discovering hidden files, exploring SSH access, and exploiting common misconfigurations or weak permissions to gain elevated privileges on the system. This room is great for reinforcing fundamental skills in Linux privilege escalation and system enumeration.
+
 ![alt text](<../assets/images/mountaineer/Screenshot 2024-10-22 141106.png>)
 
 For initial recon i used rustscan with -sCV flag
