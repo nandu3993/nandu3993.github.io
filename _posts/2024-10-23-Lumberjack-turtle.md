@@ -1,5 +1,5 @@
 ---
-title: Lumberjack Turtle
+title: TryHackMe Lumberjack Turtle
 date: 2024-10-22
 tags: [tryhackme, ctf]
 author: nandakishor

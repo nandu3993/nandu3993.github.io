@@ -1,5 +1,5 @@
 ---
-title: Clocky
+title: TryHackMe Clocky
 date: 2024-10-22
 tags: [tryhackme, ctf]
 author: nandakishor
