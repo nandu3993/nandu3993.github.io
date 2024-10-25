@@ -5,8 +5,9 @@ tags: [tryhackme, ctf]
 author: nandakishor
 ---
 #Clocky
-
+Explore my comprehensive TryHackMe walkthrough on the 'Clocky' CTF challenge, where I dive into key reconnaissance steps, detailed directory enumeration, endpoint analysis, and various exploitation techniques. This guide includes clear screenshots and structured insights to help you follow along and understand each step of the challenge. Perfect for beginners and enthusiasts looking to enhance their cybersecurity skills, my writeup provides practical knowledge and strategic approaches for CTF challenges.
 ##initial recon
+
 ```
 ┌──(kali㉿kali)-[~]
 └─$ rustscan -a 10.10.189.53 -- -sCV
