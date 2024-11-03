@@ -6,6 +6,7 @@ author: nandakishor
 ---
 
 
+This writeup covers my walkthrough of the TryHackMe 'Undiscovered' CTF challenge, where I used a variety of enumeration and brute-forcing techniques to gain access to the target system. Starting with an initial port scan using Rustscan, I identified several open services, including SSH and HTTP. Using tools like ffuf and Gobuster, I discovered additional directories and subdomains on the web server, revealing a login page.
 
 ##Recon
 ```
