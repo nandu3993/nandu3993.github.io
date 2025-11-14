@@ -79,3 +79,5 @@ Reference: [GitHub - CVE-2025-32463](https://github.com/junxian428/CVE-2025-3246
 ![alt text](<../assets/images/expressway/image copy 8.png>)
 
 Transfer the exploit payload to your attack box and proceed with privilege escalation.
+
+![alt text](<../assets/images/expressway/image copy 9.png>)
